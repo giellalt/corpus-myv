@@ -1,4 +1,6 @@
-<document xml:lang="myv" id="no_id"><header><title>Янгамо</title><genre code="ficti"/><author><person firstname="Нуянь" lastname="Видяз" sex="m" born="19340330" nationality="RUS"/></author><year>2006</year><wordcount>65861</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="myv"/><language xml:lang="rus"/></multilingual><origFileName>myv_NujanjVidjaz-Jangamo_2006-PICTXT.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header><body><p>тешкст</p>
+<document xml:lang="myv" id="no_id"><header><title>Янгамо</title><genre code="ficti"/><author><person firstname="Нуянь" lastname="Видяз" sex="m" born="19340330" nationality="RUS"/></author><year>2006</year><wordcount>65861</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual><language xml:lang="myv"/><language xml:lang="rus"/></multilingual><origFileName>myv_NujanjVidjaz-Jangamo_2006-PICTXT.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 187360 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body>
+<p>тешкст</p>
 <p>евтнемат,</p>
 <p xml:lang="rus"><em type="bold">НУЯНЬ </em></p>
 <p><em type="bold">ВИДЯЗ </em></p>
